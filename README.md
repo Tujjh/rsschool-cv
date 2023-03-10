@@ -1,1 +1,1 @@
-https://github.com/Tujjh/rsschool-cv/blob/gh-pages/cv
+https://github.com/Tujjh/rsschool-cv/blob/gh-pages/cv.md
