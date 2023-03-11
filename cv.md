@@ -11,10 +11,9 @@
 
 ### Briefly About Myself:
 
-I became interested in web development in 2022 because this profession provides endless opportunities for professional growth,
-in addition, there are a huge number of free quality resources for self-education and a large community of developers.
-
-I believe that my ability to learn and acquire new skills will help me become an experienced Frontend Developer.
+I became interested in web development in 2022 because this profession provides endless opportunities for professional growth.
+In 2023, I became a student at RS school.
+My goal is to learn a new profession and become a sought-after developer.
 
 ### Skills and Proficiency:
 
